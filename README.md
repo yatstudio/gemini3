@@ -9,7 +9,12 @@ A curated bilingual collection of impressive Gemini 3 demos and use cases found 
 → 点击标题即可访问原链接（Click title to open the original link）
 
 ---
-
+- [复古相机应用调优（Gemini 3.0） / Tuning a Retro Camera App in One Conversation](https://x.com/ann_nnng/status/1991079810882265254)
+- [生成包含中国诗词与配色的网站 / Website Generated with Chinese Poetry and Color Palette](https://x.com/JiangK82705/status/1991343829644112225)
+- [生成蒸汽机原理 SVG 动画（另一版本）/ Steam Engine Principle SVG Animation (Alternate Demo)](https://x.com/JiangK82705/status/1991078699060346946)
+- [HTML 内置 Gemini 2.5 Flash(TTS)，可在 Canvas 构建滑动播客 / HTML + Gemini 2.5 Flash (TTS): Build a Swipeable Podcast on Canvas](https://x.com/hAru_mAki_ch/status/1991342016387772901)
+- [设计师搭建的 3D 渲染工具 / 3D Rendering Tool Built by Designers](https://x.com/RDeepl/status/1991340950178980181)
+- [使用 Google NotebookLM 制作的 Gemini 3 讲解视频 / Gemini 3 Video Created with Google NotebookLM](https://x.com/luffyliux/status/1991316097887592479)
 - [植物大战僵尸（游戏） / Plants vs Zombies (Game Remake)](https://x.com/canghecode/status/1990876965516292135)
 - [复刻架构图 / Recreating a System Architecture Diagram](https://x.com/canghecode/status/1990876968657785044)
 - [macOS 和 AI 助手 / macOS + AI Assistant Integration](https://x.com/canghecode/status/1990876972021432748)
