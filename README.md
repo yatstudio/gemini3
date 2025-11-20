@@ -1,6 +1,6 @@
 # Gemini 3 Awesome List（中英双语 · Bilingual · 持续更新）
 
-**Created by: X@yatbtc**  
+**Created by: X@[yatbtc]（https://x.com/yatbtc）**  
 A curated bilingual collection of impressive Gemini 3 demos and use cases found online.  
 本项目由 X@yatbtc 创建，持续收录网络上优质的 Gemini 3 应用示例。
 
